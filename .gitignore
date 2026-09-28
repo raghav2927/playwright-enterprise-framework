@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Playwright artifacts
+playwright-report/
+test-results/
+blob-report/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Editor and OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# TypeScript incremental output
+*.
